@@ -1,1 +1,1 @@
-# algorithm-study
+# 7일6문제 - 알고리즘 스터디
